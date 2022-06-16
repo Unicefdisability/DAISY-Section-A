@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="M1: It is too expensive." />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION A: ADVOCACY FOR ACCESSIBILITY" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_364">
+				<text src="toolkit_a.html#d2e1038" id="txt_364" />
+			</par>
+			<par endsync="last" id="par_365">
+				<text src="toolkit_a.html#id_489" id="txt_365" />
+			</par>
+			<par endsync="last" id="par_366">
+				<text src="toolkit_a.html#noteref_16" id="txt_366" />
+			</par>
+			<par endsync="last" id="par_367">
+				<text src="toolkit_a.html#id_491" id="txt_367" />
+			</par>
+			<par endsync="last" id="par_368">
+				<text src="toolkit_a.html#noteref_17" id="txt_368" />
+			</par>
+		</seq>
+	</body>
+</smil>

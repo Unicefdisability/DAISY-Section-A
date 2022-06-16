@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="M2: Very few people with disabilities need access." />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION A: ADVOCACY FOR ACCESSIBILITY" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_369">
+				<text src="toolkit_a.html#d2e1050" id="txt_369" />
+			</par>
+			<par endsync="last" id="par_370">
+				<text src="toolkit_a.html#id_494" id="txt_370" />
+			</par>
+			<par endsync="last" id="par_371">
+				<text src="toolkit_a.html#noteref_18" id="txt_371" />
+			</par>
+			<par endsync="last" id="par_372">
+				<text src="toolkit_a.html#id_496" id="txt_372" />
+			</par>
+			<par endsync="last" id="par_373">
+				<text src="toolkit_a.html#id_499" id="txt_373" />
+			</par>
+			<par endsync="last" id="par_374">
+				<text src="toolkit_a.html#id_500" id="txt_374" />
+			</par>
+			<par endsync="last" id="par_375">
+				<text src="toolkit_a.html#p30" id="txt_375" />
+			</par>
+			<par endsync="last" id="par_376">
+				<text src="toolkit_a.html#id_502" id="txt_376" />
+			</par>
+		</seq>
+	</body>
+</smil>

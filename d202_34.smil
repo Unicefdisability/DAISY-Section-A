@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="M4: Countries do not need to integrate accessibility standards." />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION A: ADVOCACY FOR ACCESSIBILITY" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_379">
+				<text src="toolkit_a.html#d2e1082" id="txt_379" />
+			</par>
+			<par endsync="last" id="par_380">
+				<text src="toolkit_a.html#id_508" id="txt_380" />
+			</par>
+			<par endsync="last" id="par_381">
+				<text src="toolkit_a.html#noteref_19" id="txt_381" />
+			</par>
+			<par endsync="last" id="par_382">
+				<text src="toolkit_a.html#id_510" id="txt_382" />
+			</par>
+			<par endsync="last" id="par_383">
+				<text src="toolkit_a.html#noteref_20" id="txt_383" />
+			</par>
+		</seq>
+	</body>
+</smil>

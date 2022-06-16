@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd" >
+<smil>
+	<head>
+		<meta name="dc:identifier" content="18052022" />
+		<meta name="title" content="TIP 1: Check whether the country has ratified the Convention on the Rights of Persons with Disabilities" />
+		<meta name="dc:title" content="TOOLKIT ON ACCESSIBILITY SECTION A: ADVOCACY FOR ACCESSIBILITY" />
+		<meta name="dc:format" content="Daisy 2.02" />
+		<meta name="ncc:generator" content="Daisy Pipeline" />
+		<meta name="ncc:totalElapsedTime" content="00:00:00" />
+		<meta name="ncc:timeInThisSmil" content="00:00:00" />
+		<layout>
+			<region id="txtView" />
+		</layout>
+	</head>
+	<body>
+		<seq dur="0.000s">
+			<par endsync="last" id="par_292">
+				<text src="toolkit_a.html#d2e846" id="txt_292" />
+			</par>
+			<par endsync="last" id="par_293">
+				<text src="toolkit_a.html#id_400" id="txt_293" />
+			</par>
+			<par endsync="last" id="par_294">
+				<text src="toolkit_a.html#id_401" id="txt_294" />
+			</par>
+			<par endsync="last" id="par_295">
+				<text src="toolkit_a.html#id_402" id="txt_295" />
+			</par>
+			<par endsync="last" id="par_296">
+				<text src="toolkit_a.html#id_405" id="txt_296" />
+			</par>
+			<par endsync="last" id="par_297">
+				<text src="toolkit_a.html#id_406" id="txt_297" />
+			</par>
+		</seq>
+	</body>
+</smil>
